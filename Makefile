@@ -7,4 +7,6 @@ all:
 
 	gcc -o main module_3/practice/improper.c
 
-	
+	gcc -o main module_4/simulation_lab_3/exercise_1/main.c
+
+	gcc -o main module_4/simulation_lab_3/exercise_1/updated_main.c
